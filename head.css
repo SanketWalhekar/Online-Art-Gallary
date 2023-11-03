@@ -1,0 +1,43 @@
+.navbar-nav{
+    margin-left: 30px;
+    padding:10px;
+   
+
+}
+.navbar-nav a{
+    margin-left: 20px;
+    font-size: 17px;
+    color: #000;
+}
+
+
+  .btn:hover {
+    background-color: #dcb7e2;
+    color: rgb(0, 0, 0);
+  }
+
+
+  .navbar-nav a:hover  {
+    background-color:#d9b4e0;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    
+
+  }
+
+ 
+
+  .navbar-nav a:hover, .dropdown:hover  {
+    background-color: #d9b4e0;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+
+  }
+
+   .dropdown:hover  {
+    background-color: #d9b4e0;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding-left: 8px;
+
+  }
